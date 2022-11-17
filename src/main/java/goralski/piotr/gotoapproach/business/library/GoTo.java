@@ -1,6 +1,6 @@
 package goralski.piotr.gotoapproach.business.library;
 
-public class GoTo<T> {
+public abstract class GoTo<T> {
 
     private T result;
 
